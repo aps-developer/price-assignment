@@ -1,5 +1,5 @@
 1. Download python.
-2. clone repository
+2. clone repository (if clone not working. Download zip file)
 3. RUN command in CMD "python -m venv <your_env_name>"
 4. RUN "<your_env_name>/Scripts/activate" to activate environment.
 5. RUN "pip install -r requirements.txt"
